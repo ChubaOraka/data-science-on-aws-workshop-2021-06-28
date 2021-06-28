@@ -1,0 +1,14 @@
+{
+    "version": "1.0",
+    "explanations": {
+        "kernel_shap": {
+            "label0": {
+                "global_shap_values": {
+                    "review_body": 1.9088888888888884,
+                    "product_category": 4.2336504672372638e-16
+                },
+                "expected_value": 5.0
+            }
+        }
+    }
+}
